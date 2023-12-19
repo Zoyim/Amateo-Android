@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_accueil">
+
+    <fragment
+        android:id="@+id/nav_accueil"
+        android:name="com.location.amateolocationengin.ui.home.HomeFragment"
+        android:label="@string/menu_accueil"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_propos"
+        android:name="com.location.amateolocationengin.ui.propos.PorposFragment"
+        android:label="@string/menu_propos"
+        tools:layout="@layout/fragment_propos" />
+
+    <fragment
+        android:id="@+id/nav_catalogue"
+        android:name="com.location.amateolocationengin.ui.catalogue.CatalogueFragment"
+        android:label="@string/menu_catalogue"
+        tools:layout="@layout/fragment_catalogue" />
+
+    <fragment
+        android:id="@+id/nav_partenaire"
+        android:name="com.location.amateolocationengin.ui.partenaire.EspacePartenaireFragment"
+        android:label="@string/menu_partenaire"
+        tools:layout="@layout/fragment_partenaire" />
+</navigation>

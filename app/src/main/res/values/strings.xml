@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Amateo Location Engin</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Amateo - Location Engin Chantier</string>
+    <string name="nav_header_subtitle">contact@amateo.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_accueil">Accueil</string>
+    <string name="menu_propos">A Propos</string>
+    <string name="menu_catalogue">Catalogue</string>
+    <string name="menu_partenaire">Espace Partenaire</string>
+    <string name="title_activity_types_engines">Amateo - Type Engin Online</string>
+    <string name="title_activity_engin">Amateo - Engin Online</string>
+    <string name="title_activity_dashboard">Espace Partenaire - Dashboard</string>
+    <string name="title_activity_espace_connexion">Espace Partenaire - Connexion</string>
+    <string name="title_activity_catalogue">Amateo - Catalogue</string>
+    <string name="title_activity_infos">Amateo - Modification Etat Engin</string>
+
+    <string name="err_mobile">Le numéro de téléphone doit être obligatoire.</string>
+    <string name="err_password">Le mot de passe doit contenir au moins 8 caractères.</string>
+    <string name="voir_le_catalogue">Voir le catalogue</string>
+    <string name="nos_mat_riels_les_plus_lou_s">Nos matériels les plus loués</string>
+    <string name="vous_tes_un_loueur_professionnel">Vous êtes un loueur professionnel ?</string>
+</resources>
